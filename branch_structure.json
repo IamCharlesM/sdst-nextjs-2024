@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/playwright/test-1.64.0",
+    "dependabot/npm_and_yarn/postcss-8.5.29",
+    "dependabot/npm_and_yarn/wix/bookings-1.0.1696",
+    "dependabot/npm_and_yarn/wix/pricing-plans-1.0.403",
+    "dependabot/npm_and_yarn/wix/redirects-1.0.129",
+    "dependabot/npm_and_yarn/wix/sdk-1.21.17",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/playwright/test-1.64.0": "main",
+    "dependabot/npm_and_yarn/postcss-8.5.29": "main",
+    "dependabot/npm_and_yarn/wix/bookings-1.0.1696": "main",
+    "dependabot/npm_and_yarn/wix/pricing-plans-1.0.403": "main",
+    "dependabot/npm_and_yarn/wix/redirects-1.0.129": "main",
+    "dependabot/npm_and_yarn/wix/sdk-1.21.17": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/playwright/test-1.64.0",
+    "dependabot/npm_and_yarn/postcss-8.5.29",
+    "dependabot/npm_and_yarn/wix/bookings-1.0.1696",
+    "dependabot/npm_and_yarn/wix/pricing-plans-1.0.403",
+    "dependabot/npm_and_yarn/wix/redirects-1.0.129",
+    "dependabot/npm_and_yarn/wix/sdk-1.21.17",
+    "origin"
+  ]
+}
